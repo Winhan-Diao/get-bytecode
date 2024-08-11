@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="get-bytecode:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/get_bytecode_jar</output-path>
+    <root id="archive" name="get-bytecode.jar">
+      <element id="module-output" name="get-bytecode" />
+    </root>
+  </artifact>
+</component>
